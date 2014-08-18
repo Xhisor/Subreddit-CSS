@@ -69,7 +69,7 @@ display:inline-block;
 	border-bottom: 1px solid #8080FF;
 	border-left: 1px solid #8080FF;
 	border-right: 1px solid #8080FF;
-	background-color:#9e327d;
+	background: url(%%header%%) #9e327d no-repeat;
 	box-shadow:0 5px 10px -2px #9e327d;
 }
 
